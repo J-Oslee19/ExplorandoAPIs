@@ -1,0 +1,2 @@
+# ExplorandoAPIs
+ConsumoDeAPI(s)
