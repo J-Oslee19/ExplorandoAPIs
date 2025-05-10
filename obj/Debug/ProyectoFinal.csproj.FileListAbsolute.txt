@@ -1,0 +1,25 @@
+D:\Escritorio\Formularios en clase\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+D:\Escritorio\Formularios en clase\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+D:\Escritorio\Formularios en clase\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+D:\Escritorio\Formularios en clase\ProyectoFinal\bin\Debug\Newtonsoft.Json.dll
+D:\Escritorio\Formularios en clase\ProyectoFinal\bin\Debug\Newtonsoft.Json.xml
+D:\Escritorio\Formularios en clase\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+D:\Escritorio\Formularios en clase\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+D:\Escritorio\Formularios en clase\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+D:\Escritorio\Formularios en clase\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+D:\Escritorio\Formularios en clase\ProyectoFinal\obj\Debug\Proyecto.489DB05A.Up2Date
+D:\Escritorio\Formularios en clase\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+D:\Escritorio\Formularios en clase\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+D:\Escritorio\Consumo de API\Explorando API(S)\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+D:\Escritorio\Consumo de API\Explorando API(S)\obj\Debug\ProyectoFinal.Form1.resources
+D:\Escritorio\Consumo de API\Explorando API(S)\obj\Debug\ProyectoFinal.Properties.Resources.resources
+D:\Escritorio\Consumo de API\Explorando API(S)\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+D:\Escritorio\Consumo de API\Explorando API(S)\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+D:\Escritorio\Consumo de API\Explorando API(S)\bin\Debug\ProyectoFinal.exe.config
+D:\Escritorio\Consumo de API\Explorando API(S)\bin\Debug\ProyectoFinal.exe
+D:\Escritorio\Consumo de API\Explorando API(S)\bin\Debug\ProyectoFinal.pdb
+D:\Escritorio\Consumo de API\Explorando API(S)\bin\Debug\Newtonsoft.Json.dll
+D:\Escritorio\Consumo de API\Explorando API(S)\bin\Debug\Newtonsoft.Json.xml
+D:\Escritorio\Consumo de API\Explorando API(S)\obj\Debug\Proyecto.489DB05A.Up2Date
+D:\Escritorio\Consumo de API\Explorando API(S)\obj\Debug\ProyectoFinal.exe
+D:\Escritorio\Consumo de API\Explorando API(S)\obj\Debug\ProyectoFinal.pdb

@@ -1,0 +1,12 @@
+D:\Escritorio\Consumo de API\Explorando API(S)\obj\Debug\Explorando API(S).csproj.AssemblyReference.cache
+D:\Escritorio\Consumo de API\Explorando API(S)\obj\Debug\Explorando_API_S_.Properties.Resources.resources
+D:\Escritorio\Consumo de API\Explorando API(S)\obj\Debug\Explorando API(S).csproj.GenerateResource.cache
+D:\Escritorio\Consumo de API\Explorando API(S)\obj\Debug\Explorando API(S).csproj.CoreCompileInputs.cache
+D:\Escritorio\Consumo de API\Explorando API(S)\bin\Debug\Explorando API(S).exe.config
+D:\Escritorio\Consumo de API\Explorando API(S)\bin\Debug\Explorando API(S).exe
+D:\Escritorio\Consumo de API\Explorando API(S)\bin\Debug\Explorando API(S).pdb
+D:\Escritorio\Consumo de API\Explorando API(S)\bin\Debug\Newtonsoft.Json.dll
+D:\Escritorio\Consumo de API\Explorando API(S)\bin\Debug\Newtonsoft.Json.xml
+D:\Escritorio\Consumo de API\Explorando API(S)\obj\Debug\Exploran.5719462F.Up2Date
+D:\Escritorio\Consumo de API\Explorando API(S)\obj\Debug\Explorando API(S).exe
+D:\Escritorio\Consumo de API\Explorando API(S)\obj\Debug\Explorando API(S).pdb
